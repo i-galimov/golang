@@ -8,7 +8,6 @@
 * [**Бот в Телеграм**](https://github.com/i-galimov/golang/blob/main/projects/rss_habrbot.go)
 ---
 ### [Пример кода](https://github.com/i-galimov/golang/blob/main/projects/server_FIRST.go)
-> *Это не баг, а фича*
 ```
 package main
 
