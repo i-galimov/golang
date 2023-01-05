@@ -10,7 +10,6 @@
 ### [Пример кода](https://github.com/i-galimov/golang/blob/main/projects/server_FIRST.go)
 > *Это не баг, а фича*
 ```
-i
 package main
 
 import (
