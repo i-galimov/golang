@@ -31,3 +31,4 @@ func sayhello(w http.ResponseWriter, r *http.Request) {
 }
 ```
 ********
+![Golang](https://i0.wp.com/owlweb.ru/wp-content/uploads/2020/04/jazyk-programmirovanija-go-min.jpg?fit=600%2C400&ssl=1)
